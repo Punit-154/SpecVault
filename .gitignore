@@ -1,0 +1,11 @@
+docs/
+learner/
+*.md
+
+# standard ignores just in case
+node_modules/
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
