@@ -1,6 +1,7 @@
 docs/
 learner/
 *.md
+!README.md
 
 # standard ignores just in case
 node_modules/
