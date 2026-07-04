@@ -8,8 +8,8 @@ A full-stack product specifications platform with user authentication, searchabl
 
 ## Live Demo
 
-- **Frontend:** [specvault.vercel.app](https://specvault.vercel.app)
-- **API Docs:** [specvault-api.onrender.com/docs](https://specvault-api.onrender.com/docs)
+- **Frontend:** [spec-vault-two.vercel.app](https://spec-vault-two.vercel.app/)
+- **API Docs:** [specvault-pqq1.onrender.com/docs](https://specvault-pqq1.onrender.com/docs)
 
 ---
 
